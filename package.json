@@ -1,0 +1,1 @@
+{"name":"linguapath-server","version":"1.0.0","description":"LinguaPath oyunu + çok oyunculu sunucu","main":"server.js","scripts":{"start":"node server.js"},"license":"MIT"}
